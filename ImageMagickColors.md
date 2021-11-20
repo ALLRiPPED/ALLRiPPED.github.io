@@ -1,4 +1,3 @@
-<!doctype html>
 <html lang="en">
 <h2><a class="anchor" id="color_names"></a>List of Color Names</h2>
 
